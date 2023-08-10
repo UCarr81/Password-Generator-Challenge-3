@@ -1,3 +1,33 @@
+A Random Password Generator! Upon clicking the "Generate Password" button a window prompt will appear with multiple choice Questions! The User can confirm or Cancel the prompt if chosen too!
+This is by far the hardest thing I have done, I Spent about 1.5 hours Staring at an empty screen trying to figure out how to start!
+
+I tried multiple line codes Which I wish I hadnt deleted so It could all be left for future memory But unfortunately it was all erased! Once I spit variables out my brain starting commuting with my fingers! By far the hardest was spitting the password out As I did a lot of research and debugging to get my code to work! Hope you all enjoy this code I have created with the help of the internet!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.

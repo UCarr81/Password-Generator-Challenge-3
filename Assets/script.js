@@ -14,7 +14,7 @@ function generatePassword() {
     var numbersNumbers = "1234567890"
     var Select = [];
 
-    
+  
 
 //If user prompts Confirms Yes Computer will display the following
 if (lowercase) {Select += lowercaseLetters;}
